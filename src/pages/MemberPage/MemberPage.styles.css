@@ -1,0 +1,9 @@
+.card-m {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.crd {
+  width: 18rem;
+}

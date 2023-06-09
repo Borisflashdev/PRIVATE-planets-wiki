@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Mercury",
+    "fullName": "Mercury Territory",
+    "population": 126,
+    "type": "Research Stations",
+    "researchStates": 3,
+    "spaceStations": null,
+    "HQ": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg"
+  },
+  {
+    "name": "Venus",
+    "fullName": "Venus Territory",
+    "population": 6426,
+    "type": "Research Stations",
+    "researchStates": 102,
+    "spaceStations": null,
+    "HQ": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Venus_2_Approach_Image.jpg"
+  },
+  {
+    "name": "Earth",
+    "fullName": "United Nations of Earth",
+    "population": "13.7 Billion",
+    "type": "Member States",
+    "researchStates": 182,
+    "spaceStations": 13,
+    "HQ": "New York City",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/The_Blue_Marble_%28remastered%29.jpg"
+  },
+  {
+    "name": "Moon",
+    "fullName": "United Nations of Luna",
+    "population": "3.2 Million",
+    "type": "Member States",
+    "researchStates": 12,
+    "spaceStations": 2,
+    "HQ": "Apollo City",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg"
+  },
+  {
+    "name": "Mars",
+    "fullName": "Mars Confederation",
+    "population": "789 Million",
+    "type": "Member States",
+    "researchStates": 63,
+    "spaceStations": 13,
+    "HQ": "Olympus City",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png"
+  },
+  {
+    "name": "Asteroid Belt",
+    "fullName": "United Objects of Asteroid Belt",
+    "population": "470 000",
+    "type": "Member States",
+    "researchStates": 11,
+    "spaceStations": 9,
+    "HQ": "Kobalstadt, Ceres",
+    "image": "https://nineplanets.org/wp-content/uploads/2019/09/asteroid-belt.png",
+    "density": null
+  },
+  {
+    "name": "Jupiter",
+    "fullName": "Territory of Jupiter",
+    "population": 0,
+    "type": "Research Stations",
+    "researchStates": 0,
+    "spaceStations": 3,
+    "HQ": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Jupiter.jpg",
+    "density": null
+  },
+  {
+    "name": "Io",
+    "fullName": "Territory of Io",
+    "population": 6174,
+    "type": "Research Stations",
+    "researchStates": 98,
+    "spaceStations": 0,
+    "HQ": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Io_highest_resolution_true_color.jpg"
+  },
+  {
+    "name": "Europa",
+    "fullName": "Planetary State of Europa",
+    "population": "154 000",
+    "type": "Member States",
+    "researchStates": 9,
+    "spaceStations": 1,
+    "HQ": "New Berlin",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Europa_in_natural_color.png"
+  },
+  {
+    "name": "Ganymede",
+    "fullName": "Planetary State of Ganymede",
+    "population": "1.2 Million",
+    "type": "Member States",
+    "researchStates": 12,
+    "spaceStations": 1,
+    "HQ": "Galliean City",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Ganymede_-_Perijove_34_Composite.png"
+  },
+  {
+    "name": "Callisto",
+    "fullName": "Planetary State of Callisto",
+    "population": "280 000",
+    "type": "Member States",
+    "researchStates": 12,
+    "spaceStations": 1,
+    "HQ": "Callisto City",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Callisto_-_July_8_1979_%2838926064465%29.jpg"
+  },
+  {
+    "name": "Saturn",
+    "fullName": "Territory of Saturn",
+    "population": 7000,
+    "type": "Research Stations",
+    "researchStates": 4,
+    "spaceStations": 2,
+    "HQ": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Saturn_during_Equinox.jpg"
+  },
+  {
+    "name": "Titan",
+    "fullName": "Planetary State of Titan",
+    "population": "78 000",
+    "type": "Member States",
+    "researchStates": 9,
+    "spaceStations": 1,
+    "HQ": "Port Ligeia",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Titan_in_true_color_by_Kevin_M._Gill.jpg"
+  },
+  {
+    "name": "Uranus",
+    "fullName": "Uranus Territory",
+    "population": 5000,
+    "type": "Research Stations",
+    "researchStates": 70,
+    "spaceStations": 1,
+    "HQ": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Uranus_as_seen_by_NASA%27s_Voyager_2_%28remastered%29_-_JPEG_converted.jpg"
+  },
+  {
+    "name": "Neptune",
+    "fullName": "Neptune Territory",
+    "population": 3000,
+    "type": "Research Stations",
+    "researchStates": 39,
+    "spaceStations": 0,
+    "HQ": null,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Neptune_-_Voyager_2_%2829347980845%29_flatten_crop.jpg"
+  },
+  {
+    "name": "Kuiper Belt",
+    "fullName": "Kuiper Belt Territory",
+    "population": 1000,
+    "type": "Research Stations",
+    "researchStates": 12,
+    "spaceStations": 2,
+    "HQ": null,
+    "image": "https://i.ytimg.com/vi/2cQai-ec3J0/maxresdefault.jpg"
+  }
+]
